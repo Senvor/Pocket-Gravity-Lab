@@ -18,7 +18,7 @@ A portable, interactive physics laboratory for exploring gravity and orbital mec
 
 Pocket Gravity Lab is a handheld device for playing with gravity and orbits. The plan is to run real-time physics simulations on a small screen and control them with physical buttons and inputs, all on custom embedded hardware.
 
-It's built with C++ and designed for the **ESP32-S3**.
+It's built with C++ and designed for the **Teensy 4.1**.
 
 ## Planned Features
 
@@ -40,7 +40,7 @@ It's built with C++ and designed for the **ESP32-S3**.
 
 - **KiCad** - schematic and PCB design
 - **C++** - firmware (planned)
-- **ESP32-S3** - the target microcontroller
+- **Teensy 4.1** - the target microcontroller
 
 ## Project Structure
 
